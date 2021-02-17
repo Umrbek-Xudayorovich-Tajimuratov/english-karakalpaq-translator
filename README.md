@@ -1,0 +1,2 @@
+# english-karakalpaq-translator
+ 
