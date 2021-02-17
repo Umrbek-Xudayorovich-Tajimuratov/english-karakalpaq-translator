@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+/* font-family: 'Potta One', cursive; */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+*::selection {
+    background-color: #333333;
+    color: #ffffff;
+}
+.closer {
+    transition: 0.5s;
+}
+
+/* Languge option */
+.lang{
+    font-size: 1rem;
+}
+/* border qo'shadi tepa pastiga */
+.bord{
+    border-top: 2px solid #F0F0F0;
+    border-bottom: 2px solid #F0F0F0;
+}
+/* icon ga kelsa pointer beradi */
+.fa-exchange-alt{
+    cursor: pointer;
+    color: blue;
+}
+#header {
+    background: #f0eaea;
+    border-bottom: 1px dashed #ff7f50;
+    width: 100%;
+    position: fixed;
+    z-index: 2;
+}
+.navbar {
+    padding: 0!important;
+    border-bottom: 1px solid #858181;
+}
+.info-nav__text {
+    padding: 0.3rem 0.9rem 0.5rem 0.8rem;
+}
+#exchange {
+    font-size: 0.9rem!important;
+}
+#main {
+    padding-top: 11rem;
+}
+.main-content {
+    background: #e4e4e4;
+    border-radius: 5px;
+    padding: 3rem;
+}
+.input-group {
+    width: 80%!important;
+    margin: auto;
+}
+#search-icon {
+    color: #858181;
+    transition: color .5s;
+    margin: 4px;
+}
+#search-icon:hover {
+    cursor: pointer;
+    color: #b32626;
+}
+.main-results {
+    padding: 1rem;
+}
+.result-header__text {
+    padding-bottom: 1rem;
+    text-align: center;
+    font-family: 'Potta One', cursive;
+}
+.input {
+    z-index: 1;
+}
+.flag-image {
+    width: 2rem;
+}
+td {
+    max-width: 9rem;
+}
+#serching-btn{
+    cursor: pointer;
+}

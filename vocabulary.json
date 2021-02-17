@@ -1,0 +1,26 @@
+[
+    {
+        "wordEn":"apple",
+        "defEn":["This is english definition apple 1","This is english definition apple 2"],
+        "synEn":["MangoEn","PearEn","GuavaEn"],
+        "wordUz":"alma",
+        "defUz":["Bu alma tushunchasi 1","Bu alma tushunchasi 2"],
+        "synUz":["MangoUz","PearUz","GuavaUz"]
+    },
+    {
+        "wordEn":"zebra",
+        "defEn":["This is english definition zebra 1","This is english definition zebra 2"],
+        "synEn":["zebra1","zebra2","zebra3"],
+        "wordUz":"zebraqu",
+        "defUz":["Bu zebraqu tushunchasi 1","Bu zebraqu tushunchasi 2"],
+        "synUz":["Eshak","Ot","Xo'tik"]
+    },
+    {
+        "wordEn":"umbrella",
+        "defEn":["This is english definition umbrella 1","This is english definition umbrella 2","This is english definition umbrella 3"],
+        "synEn":["umbrella1","umbrella2","umbrella3"],
+        "wordUz":"soyabon",
+        "defUz":["Bu soyabon tushunchasi 1","Bu soyabon tushunchasi 2"],
+        "synUz":["soyaboncha","chertak","naves"]
+    }
+]
